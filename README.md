@@ -3,7 +3,7 @@ To run and test the solution follow these steps:
 
 1. Open your preferred web browser (e.g., Google Chrome, Mozilla Firefox).
 
-2. Navigate to the GitHub website (https://github.com/kamlesh0007/Drag-Drop-) 
+2. Navigate to the GitHub website (https://github.com/Kamlesh0007/Drag-Drop-/tree/kamlesh) 
 
 3. Look for a button that says "Code" or "Clone" and click on it. This will display a dropdown menu with options for cloning the repository.
 
